@@ -16,7 +16,9 @@
       },
       "distribution": "internal"
     },
-    "production": {}
+    "production": {
+        "credentialsSource": "local"
+    }
   },
   "submit": {
     "production": {}
